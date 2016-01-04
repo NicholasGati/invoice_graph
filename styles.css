@@ -1,0 +1,49 @@
+header {
+	width: 100%;
+	height: 70px;
+	background-color: #5B56AD;
+	font-family: verdana;
+}
+
+header ul li {
+	list-style-type: none;
+	font-size: 2em;
+	padding-top: .5em;
+	float: left;
+}
+
+header ul li:last-child {
+	float: right;
+	color: #F4F4F5;
+}
+
+header ul li a {
+	color: #F4F4F5;
+}
+
+header ul li a:hover {
+	color: #F8BD67;
+	text-decoration: none;
+}
+
+.axis path, .axis line {
+	fill: none;
+	stroke: #5B56AD;
+	shape-rendering: crispEdges;
+}
+
+.axis text {
+	font-size: 1em;
+	font-family: verdana;
+}
+
+.bar {
+	fill: #F8BD67;
+}
+
+.container h1 {
+	font-family: verdana;
+	color: #F8BD67;
+	padding-bottom: 2em;
+	text-decoration: underline;
+}
