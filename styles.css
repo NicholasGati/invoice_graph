@@ -2,7 +2,7 @@ header {
 	width: 100%;
 	height: 70px;
 	background-color: #5B56AD;
-	font-family: verdana;
+	font-family: 'Poiret One', verdana;
 }
 
 header ul li {
@@ -34,7 +34,6 @@ header ul li a:hover {
 
 .axis text {
 	font-size: 1em;
-	font-family: verdana;
 }
 
 .bar {
@@ -42,7 +41,7 @@ header ul li a:hover {
 }
 
 .container h1 {
-	font-family: verdana;
+	font-family: 'Poiret One', verdana;
 	color: #F8BD67;
 	padding-bottom: 2em;
 	text-decoration: underline;
